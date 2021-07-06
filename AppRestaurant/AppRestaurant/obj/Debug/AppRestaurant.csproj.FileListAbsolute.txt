@@ -1,0 +1,373 @@
+C:\Users\dudus\source\repos\AppRestaurant\AppRestaurant\bin\Debug\AppRestaurant.exe.config
+C:\Users\dudus\source\repos\AppRestaurant\AppRestaurant\bin\Debug\AppRestaurant.exe
+C:\Users\dudus\source\repos\AppRestaurant\AppRestaurant\bin\Debug\AppRestaurant.pdb
+C:\Users\dudus\source\repos\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.Form1.resources
+C:\Users\dudus\source\repos\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.Properties.Resources.resources
+C:\Users\dudus\source\repos\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCHome.resources
+C:\Users\dudus\source\repos\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.csproj.GenerateResource.cache
+C:\Users\dudus\source\repos\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.csproj.CoreCompileInputs.cache
+C:\Users\dudus\source\repos\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.exe
+C:\Users\dudus\source\repos\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.pdb
+C:\Users\dudus\source\repos\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.FormLogin.resources
+C:\Users\dudus\source\repos\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCAccount.resources
+C:\Users\dudus\source\repos\AppRestaurant\AppRestaurant\bin\Debug\Antlr3.Runtime.dll
+C:\Users\dudus\source\repos\AppRestaurant\AppRestaurant\bin\Debug\Iesi.Collections.dll
+C:\Users\dudus\source\repos\AppRestaurant\AppRestaurant\bin\Debug\NHibernate.dll
+C:\Users\dudus\source\repos\AppRestaurant\AppRestaurant\bin\Debug\Remotion.Linq.dll
+C:\Users\dudus\source\repos\AppRestaurant\AppRestaurant\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\dudus\source\repos\AppRestaurant\AppRestaurant\bin\Debug\Antlr3.Runtime.xml
+C:\Users\dudus\source\repos\AppRestaurant\AppRestaurant\bin\Debug\Iesi.Collections.xml
+C:\Users\dudus\source\repos\AppRestaurant\AppRestaurant\bin\Debug\NHibernate.xml
+C:\Users\dudus\source\repos\AppRestaurant\AppRestaurant\bin\Debug\Remotion.Linq.xml
+C:\Users\dudus\source\repos\AppRestaurant\AppRestaurant\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\dudus\source\repos\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.csproj.CopyComplete
+C:\Users\dudus\source\repos\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCMenu.resources
+C:\Users\dudus\source\repos\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCOrder.resources
+C:\Users\dudus\source\repos\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.csprojAssemblyReference.cache
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\AppRestaurant.exe.config
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\AppRestaurant.exe
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\AppRestaurant.pdb
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\Antlr3.Runtime.dll
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\Iesi.Collections.dll
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\NHibernate.dll
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\Remotion.Linq.dll
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\Antlr3.Runtime.xml
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\Iesi.Collections.xml
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\NHibernate.xml
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\Remotion.Linq.xml
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.FormLogin.resources
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.Form1.resources
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.Properties.Resources.resources
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCAccount.resources
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCHome.resources
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCMenu.resources
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCOrder.resources
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.csproj.GenerateResource.cache
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.csproj.CopyComplete
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.exe
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.pdb
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.csprojAssemblyReference.cache
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Sagitum\3\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\AppRestaurant.exe.config
+E:\Sagitum\3\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\AppRestaurant.exe
+E:\Sagitum\3\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\AppRestaurant.pdb
+E:\Sagitum\3\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\Antlr3.Runtime.dll
+E:\Sagitum\3\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\Iesi.Collections.dll
+E:\Sagitum\3\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\NHibernate.dll
+E:\Sagitum\3\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\Remotion.Linq.dll
+E:\Sagitum\3\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\Remotion.Linq.EagerFetching.dll
+E:\Sagitum\3\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\Antlr3.Runtime.xml
+E:\Sagitum\3\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\Iesi.Collections.xml
+E:\Sagitum\3\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\NHibernate.xml
+E:\Sagitum\3\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\Remotion.Linq.xml
+E:\Sagitum\3\Rest final\APKA\AppRestaurant\AppRestaurant\bin\Debug\Remotion.Linq.EagerFetching.xml
+E:\Sagitum\3\Rest final\APKA\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.Forms.FormDiscount.resources
+E:\Sagitum\3\Rest final\APKA\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.Forms.FormLoginBAD.resources
+E:\Sagitum\3\Rest final\APKA\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.Forms.FormLoginOK.resources
+E:\Sagitum\3\Rest final\APKA\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.Forms.FormEndOrder.resources
+E:\Sagitum\3\Rest final\APKA\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.FormLogin.resources
+E:\Sagitum\3\Rest final\APKA\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.Form1.resources
+E:\Sagitum\3\Rest final\APKA\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.Properties.Resources.resources
+E:\Sagitum\3\Rest final\APKA\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCAccount.resources
+E:\Sagitum\3\Rest final\APKA\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCHome.resources
+E:\Sagitum\3\Rest final\APKA\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCHomePage.resources
+E:\Sagitum\3\Rest final\APKA\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCOrder.resources
+E:\Sagitum\3\Rest final\APKA\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCOrderFirstPage.resources
+E:\Sagitum\3\Rest final\APKA\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCOrderLastPage.resources
+E:\Sagitum\3\Rest final\APKA\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCRestaurantMenu.resources
+E:\Sagitum\3\Rest final\APKA\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.csproj.GenerateResource.cache
+E:\Sagitum\3\Rest final\APKA\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.csproj.CoreCompileInputs.cache
+E:\Sagitum\3\Rest final\APKA\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.csproj.CopyComplete
+E:\Sagitum\3\Rest final\APKA\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.exe
+E:\Sagitum\3\Rest final\APKA\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.pdb
+E:\Sagitum\3\Rest final\APKA\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCOrderSecondPagee.resources
+E:\Projekt Programowanie\AppRestaurant\AppRestaurant\bin\Debug\AppRestaurant.exe.config
+E:\Projekt Programowanie\AppRestaurant\AppRestaurant\bin\Debug\AppRestaurant.exe
+E:\Projekt Programowanie\AppRestaurant\AppRestaurant\bin\Debug\AppRestaurant.pdb
+E:\Projekt Programowanie\AppRestaurant\AppRestaurant\bin\Debug\Antlr3.Runtime.dll
+E:\Projekt Programowanie\AppRestaurant\AppRestaurant\bin\Debug\Iesi.Collections.dll
+E:\Projekt Programowanie\AppRestaurant\AppRestaurant\bin\Debug\NHibernate.dll
+E:\Projekt Programowanie\AppRestaurant\AppRestaurant\bin\Debug\Remotion.Linq.dll
+E:\Projekt Programowanie\AppRestaurant\AppRestaurant\bin\Debug\Remotion.Linq.EagerFetching.dll
+E:\Projekt Programowanie\AppRestaurant\AppRestaurant\bin\Debug\Antlr3.Runtime.xml
+E:\Projekt Programowanie\AppRestaurant\AppRestaurant\bin\Debug\Iesi.Collections.xml
+E:\Projekt Programowanie\AppRestaurant\AppRestaurant\bin\Debug\NHibernate.xml
+E:\Projekt Programowanie\AppRestaurant\AppRestaurant\bin\Debug\Remotion.Linq.xml
+E:\Projekt Programowanie\AppRestaurant\AppRestaurant\bin\Debug\Remotion.Linq.EagerFetching.xml
+E:\Projekt Programowanie\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.csprojAssemblyReference.cache
+E:\Projekt Programowanie\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.Forms.FormDiscount.resources
+E:\Projekt Programowanie\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.Forms.FormLoginBAD.resources
+E:\Projekt Programowanie\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.Forms.FormLoginOK.resources
+E:\Projekt Programowanie\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.Forms.FormEndOrder.resources
+E:\Projekt Programowanie\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.FormLogin.resources
+E:\Projekt Programowanie\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.Form1.resources
+E:\Projekt Programowanie\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.Properties.Resources.resources
+E:\Projekt Programowanie\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCAccount.resources
+E:\Projekt Programowanie\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCHome.resources
+E:\Projekt Programowanie\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCHomePage.resources
+E:\Projekt Programowanie\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCOrder.resources
+E:\Projekt Programowanie\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCOrderFirstPage.resources
+E:\Projekt Programowanie\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCOrderLastPage.resources
+E:\Projekt Programowanie\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCOrderSecondPagee.resources
+E:\Projekt Programowanie\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCRestaurantMenu.resources
+E:\Projekt Programowanie\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.csproj.GenerateResource.cache
+E:\Projekt Programowanie\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.csproj.CoreCompileInputs.cache
+E:\Projekt Programowanie\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.csproj.CopyComplete
+E:\Projekt Programowanie\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.exe
+E:\Projekt Programowanie\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.pdb
+E:\Projekt Programowanie\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.FormAdminPanel.resources
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\AppRestaurant.exe.config
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\AppRestaurant.exe
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\AppRestaurant.pdb
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\Antlr3.Runtime.dll
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\Iesi.Collections.dll
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\NHibernate.dll
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\Remotion.Linq.dll
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\Antlr3.Runtime.xml
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\Iesi.Collections.xml
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\NHibernate.xml
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\Remotion.Linq.xml
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.FormAdminPanel.resources
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.Forms.FormDiscount.resources
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.Forms.FormLoginBAD.resources
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.Forms.FormLoginOK.resources
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.Forms.FormEndOrder.resources
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.FormLogin.resources
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.Form1.resources
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.Properties.Resources.resources
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCAccount.resources
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCHome.resources
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCHomePage.resources
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCOrder.resources
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCOrderFirstPage.resources
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCOrderLastPage.resources
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCOrderSecondPagee.resources
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCRestaurantMenu.resources
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.csproj.GenerateResource.cache
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.csproj.CopyComplete
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.exe
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.pdb
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCUsers.resources
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCMenuAdminPanel.resources
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCAddUser.resources
+C:\Users\dominik.bednarz\Desktop\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCAddProduct.resources
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\AppRestaurant.exe.config
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\AppRestaurant.exe
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\AppRestaurant.pdb
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\Antlr3.Runtime.dll
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\Iesi.Collections.dll
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\NHibernate.dll
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\Remotion.Linq.dll
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\Antlr3.Runtime.xml
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\Iesi.Collections.xml
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\NHibernate.xml
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\Remotion.Linq.xml
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.FormAdminPanel.resources
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.Forms.FormDiscount.resources
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.Forms.FormLoginBAD.resources
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.Forms.FormLoginOK.resources
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.Forms.FormEndOrder.resources
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.FormLogin.resources
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.Form1.resources
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.Properties.Resources.resources
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCAddProduct.resources
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCAddUser.resources
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCMenuAdminPanel.resources
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCAccount.resources
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCHome.resources
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCHomePage.resources
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCOrder.resources
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCOrderFirstPage.resources
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCOrderSecondPagee.resources
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCRestaurantMenu.resources
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCUsers.resources
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.csproj.GenerateResource.cache
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.csproj.CopyComplete
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.exe
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.pdb
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCEditUser.resources
+C:\Users\dominik.bednarz\Desktop\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCEditProduct.resources
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\AppRestaurant.exe.config
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\AppRestaurant.exe
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\AppRestaurant.pdb
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\Antlr3.Runtime.dll
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\Iesi.Collections.dll
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\NHibernate.dll
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\Remotion.Linq.dll
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\Remotion.Linq.EagerFetching.dll
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\Antlr3.Runtime.xml
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\DevExpress.Data.v19.2.xml
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\DevExpress.Utils.v19.2.xml
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\Iesi.Collections.xml
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\NHibernate.xml
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\Remotion.Linq.xml
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\Remotion.Linq.EagerFetching.xml
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.csprojAssemblyReference.cache
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.FormAdminPanel.resources
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.Forms.FormDiscount.resources
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.Forms.FormLoginBAD.resources
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.Forms.FormLoginOK.resources
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.Forms.FormEndOrder.resources
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.FormLogin.resources
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.Form1.resources
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.Properties.Resources.resources
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCAddProduct.resources
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCAddUser.resources
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCEditProduct.resources
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCEditUser.resources
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCMenuAdminPanel.resources
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCAccount.resources
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCHome.resources
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCHomePage.resources
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCOrder.resources
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCOrderFirstPage.resources
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCOrderSecondPagee.resources
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCRestaurantMenu.resources
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.UCUsers.resources
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.csproj.GenerateResource.cache
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.csproj.CoreCompileInputs.cache
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.csproj.CopyComplete
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.exe
+E:\Projekt next step\5 lipiec\Rest2 Test\Rest2\Rest 2\AppRestaurant\AppRestaurant\obj\Debug\AppRestaurant.pdb
